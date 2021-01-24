@@ -1,0 +1,8 @@
+Java HotSpot(TM) 64-Bit Server VM (25.101-b13) for windows-amd64 JRE (1.8.0_101-b13), built on Jun 22 2016 01:21:29 by "java_re" with MS VC++ 10.0 (VS2010)
+Memory: 4k page, physical 8281064k(592372k free), swap 23565888k(3778012k free)
+CommandLine flags: -XX:InitialHeapSize=536870912 -XX:MaxHeapSize=536870912 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC -XX:-UseLargePagesIndividualAllocation 
+Heap
+ garbage-first heap   total 524288K, used 1024K [0x00000000e0000000, 0x00000000e0101000, 0x0000000100000000)
+  region size 1024K, 2 young (2048K), 0 survivors (0K)
+ Metaspace       used 2816K, capacity 4480K, committed 4480K, reserved 1056768K
+  class space    used 324K, capacity 384K, committed 384K, reserved 1048576K
